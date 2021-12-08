@@ -1,7 +1,7 @@
 package androidshop.security.services;
 
+import androidshop.models.user.User;
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import androidshop.models.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

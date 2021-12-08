@@ -1,7 +1,7 @@
 package androidshop.repository;
 
-import androidshop.models.ERole;
-import androidshop.models.Role;
+import androidshop.models.user.ERole;
+import androidshop.models.user.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

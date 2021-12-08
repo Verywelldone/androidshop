@@ -1,6 +1,6 @@
 package androidshop.security.services;
 
-import androidshop.models.User;
+import androidshop.models.user.User;
 import androidshop.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

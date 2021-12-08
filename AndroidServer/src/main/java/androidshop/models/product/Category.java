@@ -1,4 +1,4 @@
-package androidshop.models;
+package androidshop.models.product;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import lombok.*;
